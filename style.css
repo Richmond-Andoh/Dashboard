@@ -20,7 +20,7 @@ h2 {
 
 .side-menu {
     position: fixed;
-    background: red;
+    background: orangered;
     width: 20vw;
     min-height: 100vh;
     display: flex;
@@ -67,7 +67,7 @@ h2 {
     top: 0;
     width: 80vw;
     height: 15vh;
-    background: white;
+    background: cyan;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -120,7 +120,7 @@ h2 {
     color: white;
     padding: 5px 10px;
     align-items: center;
-    background: red;
+    background: orangered;
 }
 
 .btn:hover {
